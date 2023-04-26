@@ -1,0 +1,11 @@
+.buttons {
+   text-align: center;
+}
+.button__headerRemove{
+    background-color: teal;
+    color: white;
+}
+.button__darkMode{
+    background-color: teal;
+    color: white;
+}

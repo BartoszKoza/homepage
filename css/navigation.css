@@ -1,0 +1,34 @@
+.navigation {
+    overflow: hidden;
+    max-width: 100%;
+    
+}
+
+
+.navigation__list {
+  
+    background-color: teal;
+  
+}
+
+
+
+.navigation__item {
+    float: left;
+    display: block;
+    padding-left: 30px;
+    padding-right: 30px;
+    max-width: 100%;
+}
+
+.navigation__item:hover {
+    background-color: rgb(172, 173, 172);
+}
+
+.navigation__text {
+    color:teal;
+    font-size: 22px;
+    text-decoration: none;
+   
+    
+}
